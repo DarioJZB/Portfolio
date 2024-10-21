@@ -5,7 +5,7 @@ function Footer() {
         <footer className='footerContainer'>
             <div >
                 <a href="https://github.com/DarioJZB" target="_blank">
-                    <img src="./src/assets/images/GitHub_Logo.png" alt="GitHub" className='logo' />
+                    <img src="/assets/GitHub_Logo.png" alt="GitHub" className='logo' />
                 </a>
             </div>
         </footer>
